@@ -1,7 +1,7 @@
 # Tensorflow Object Detection Walkthrough
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+<b>Step 1.</b> Clone this repository: https://github.com/Anonymous-6409/Object-Detection
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
